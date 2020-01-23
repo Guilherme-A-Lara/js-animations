@@ -1,4 +1,4 @@
-# Hacktoberfest-animations
+
 
 Small animation selector for Hacktoberfest
 
@@ -22,34 +22,34 @@ If you have any problems/questions or issues please submit an issue and I will g
 Don't forget to star!
 
 ## Showcase
-![boogie by jdsteinbach](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/boogie.gif)
-boogie by [jdsteinbach](https://github.com/jdsteinbach)
+![boogie](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/boogie.gif)
+boogie by (https://github.com/jdsteinbach)
 
-![colours by zerossB](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/colours.gif)
-colours - [zerossB](https://github.com/zerossB)
-
-
-![glitch by OhmSainz](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/glitch.gif)
-glitch by [OhmSainz](https://github.com/OhmSainz)
-
-![heartbeat by azrizhaziq](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/heartbeat.gif)
-heartbeat by [azrizhaziq](https://github.com/azrizhaziq)
+![colours  ](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/colours.gif)
+colours - (https://github.com/zerossB)
 
 
-![neon by Kalugin Pavel](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/neon.gif)
-neon by Kalugin [Pavel](https://github.com/Pavel)
+![glitch (https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/glitch.gif)
+glitch (https://github.com/OhmSainz)
 
-![tada by MariMendes](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/tada.gif)
-tada by [MariMendes](https://github.com/MariMendes)
+![heartbeat ](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/heartbeat.gif)
+heartbeat (https://github.com/azrizhaziq)
 
-![typewriter by aihowes](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/typewriter.gif)
-typewriter by [aihowes](https://github.com/aihowes)
 
-![pumpkins by ashwoodall](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/pumpkins.gif)
-pumpkins by [ashwoodall](https://github.com/ashwoodall)
+![neon](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/neon.gif)
+neon (https://github.com/Pavel)
 
-![border rainbow by brunobolting](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/border-rainbow.gif)
-border-rainbow by [brunobolting](https://github.com/brunobolting)
+![tada ](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/tada.gif)
+tada (https://github.com/MariMendes)
+
+![typewriter ](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/typewriter.gif)
+typewriter (https://github.com/aihowes)
+
+![pumpkins](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/pumpkins.gif)
+pumpkins (https://github.com/ashwoodall)
+
+![border ](https://raw.githubusercontent.com/NiallEccles/Hacktoberfest-animations/master/showcase/border-rainbow.gif)
+border-rainbow (https://github.com/brunobolting)
 
 ## Notable Contributions
 Huge thanks to [reebr](https://github.com/reebr) for massively improving the structure of the project.
